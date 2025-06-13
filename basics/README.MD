@@ -97,3 +97,9 @@ git diff
 ```bash
 git merge <tên_nhánh>
 ```
+
+## có 3 cách để xác thực git hub
+
+1. Github user/pass
+2. Github api key (dùng api key như là password)
+3. SSH: https://docs.github.com/en/authentication/connecting-to-github-with-ssh
