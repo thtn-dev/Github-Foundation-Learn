@@ -7,6 +7,7 @@ git config --global user.name "User Name"
 git config --global user.email "username@gmail.com"
 git config --global --list
 git config --system --list
+git config --global core.editor "code --wait"
 ```
 
 ## Kiểm tra trạng thái repository:
@@ -89,4 +90,10 @@ git stash pop           # Khôi phục thay đổi đã lưu
 
 ```bash
 git diff
+```
+
+## Merge
+
+```bash
+git merge <tên_nhánh>
 ```
