@@ -1,1 +1,0 @@
-console.log("Hello from the WSL distro script! This is a test script running in the WSL environment.");
